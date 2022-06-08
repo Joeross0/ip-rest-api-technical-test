@@ -8,6 +8,8 @@ The REST API must support four endpoint:
   * **Acquire an IP** - set the status of a certain IP to “acquired”
   * **Release an IP** - set the status of a certain IP to “available”
 
+When you are finished, please push your solution to this repo.
+
 Please include brief instructions about how to get your REST API project running on a development machine.
 
 Please also include example HTTP requests that could be ran against your API. Postman Collection, Swagger documentation or similar are acceptable.
