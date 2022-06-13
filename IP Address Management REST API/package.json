@@ -1,0 +1,18 @@
+{
+  "name": "IP Address Management REST API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cross-env NODE_OPTIONS=--max-old-space-size=8192 webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-validator": "^6.14.1",
+    "ip-cidr": "^3.0.10"
+  }
+}
